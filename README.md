@@ -11,4 +11,4 @@ Design and simulation of a BCD multiplier that multiplies a 2 digit BCD number w
 
 ## Simulated Waveforms
 
-![](https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/img175.jpg)https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/img175.jpg)
+![](https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/img175.jpg)
