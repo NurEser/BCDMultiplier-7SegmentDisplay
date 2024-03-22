@@ -5,7 +5,7 @@ Design and simulation of a BCD multiplier that multiplies a 2 digit BCD number w
 
 ## Top Design
 
-![](https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/Screen%20Shot%202024-03-22%20at%2016.16.01.png)https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/Screen%20Shot%202024-03-22%20at%2016.16.01.png)
+![](https://github.com/NurEser/BCDMultiplier-7SegmentDisplay/blob/main/Screen%20Shot%202024-03-22%20at%2016.16.01.png)
 
 
 
